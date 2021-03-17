@@ -1,9 +1,10 @@
-function Copyright(){
-    return(
-       <div className='copyright'>
-           ООО “интукод”, 2020г.
-       </div>
-    )
-}
+// function Copyright(){
+//     return(
+//        <div className='copyright'>
+//            ООО “интукод”, 2020г.
+//        </div>
+//     )
+// }
+//
+// export default Copyright;
 
-export default Copyright;
